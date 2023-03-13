@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Actualizado por Saneva
 # Wazuh Configuration File Generator
 # Copyright (C) 2015, Wazuh Inc.
 # November 24, 2016.
